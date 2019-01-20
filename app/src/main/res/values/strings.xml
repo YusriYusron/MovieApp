@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="search">Search</string>
+    <string name="rating">Rating</string>
+    <string name="popularity">Popularity</string>
+    <string name="language">Language</string>
+    <string name="genres">Genres</string>
+    <string name="release">Release</string>
+    <string name="overview">Overview</string>
+</resources>
